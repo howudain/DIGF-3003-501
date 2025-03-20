@@ -1,7 +1,7 @@
 /*
 Voicelume Controller 
 Dain Jung
-DIGF-3003-501 Wearable Technology
+DIGF-3003-501 Advanced Wearable Electronics
 OCAD University
 March 9th 2025
 */ 
